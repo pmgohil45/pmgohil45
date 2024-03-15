@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">My name is Pm Gohil and I'm a Android App Developer, wield the artistry of code, fashioning bespoke marvels that dance on the precipice of innovation.</p>
-<a href="https://pmgohil.site/">Visit</a>
+<p align="left">My name is <a href="https://pmgohil.site/">Pm Gohil</a> and I'm a Android App Developer, wield the artistry of code, fashioning bespoke marvels that dance on the precipice of innovation.</p>
 ###
 
 <div align="center">
