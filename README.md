@@ -1,4 +1,4 @@
-<h2 align="left">Salutations! Embarking on the digital frontier, I, Pm Gohil, wield the artistry of code, fashioning bespoke marvels that dance on the precipice of innovation.</h2>
+<h2 align="left">Salutations! Embarking on the digital frontier, I'm Pm Gohil, wield the artistry of code, fashioning bespoke marvels that dance on the precipice of innovation.</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
