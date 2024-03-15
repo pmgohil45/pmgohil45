@@ -14,8 +14,9 @@
 
 ###
 
+<!--
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/86161081?v=4"  />
-
+-->
 ###
 
 <div align="left">
@@ -60,7 +61,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo"  />
   </a>
 
 </div>
@@ -69,6 +70,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />-->
 
 ###
