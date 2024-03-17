@@ -71,10 +71,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=pmgohil45&theme=default" alt="Layout with last medium posts"  />
-</div>
+<img src="https://raw.githubusercontent.com/pmgohil45/pmgohil45/output/snake.svg" alt="Snake animation" />
 
 ###
