@@ -20,49 +20,43 @@
 ###
 
 <div align="left">
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/Kotlin" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/Kotlin" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/ASP.NET" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/C-Sharp" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/CPP" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/JAVA" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/Python" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/PHP" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/HTML5" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/CSS3" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   </a>
-  <a href="" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo"  />
-  </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/Oracle" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/pmgohil45/Operating-System" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   </a>
 </div>
@@ -97,14 +91,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/pmgohil45/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=pmgohil45&theme=default" alt="Layout with last medium posts"  />
 </div>
 
 ###
