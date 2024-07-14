@@ -13,9 +13,8 @@
 </div
 
 ###
-<br>
-<div align="center">
-  <h2 style="font-family: 'Times New Roman', Times, serif;">My Contributions</h2>
+<div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
+  <h2>My Contributions</h2>
   <img src="https://raw.githubusercontent.com/pmgohil45/pmgohil45/output/snake.svg" alt="Snake animation" />
   
 <!--
@@ -25,8 +24,8 @@
 
 ###
 <br>
-<div align="center">
-  <h2 style="font-family: 'Times New Roman', Times, serif;">Cognizant</h2>
+<div align="center"  style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
+  <h2>Cognizant</h2>
   <a href="https://github.com/pmgohil45/Kotlin" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   </a>
@@ -73,8 +72,8 @@
 
 ###
 <br>
-<div align="center">
-    <h2 style="font-family: 'Times New Roman', Times, serif;">Presence</h2>
+<div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
+    <h2>Presence</h2>
   <a href="https://www.linkedin.com/in/pmgohil45/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" target="_blank" />
   </a>
@@ -101,8 +100,8 @@
 
 ###
 <br>
-<div align="center">
-  <h2 style="font-family: 'Times New Roman', Times, serif;">Visitation</h2>
+<div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
+  <h2>Visitation</h2>
   <img src="https://profile-counter.glitch.me/pmgohil45/count.svg?"  />
 </div>
 
