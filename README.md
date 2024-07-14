@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left" style="font-family: 'Times New Roman', Times, serif;">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is <a href="https://pmgohil.site/" target="_blank">Pm Gohil</a> and I'm a Android App Developer, wield the artistry of code, fashioning bespoke marvels that dance on the precipice of innovation.</p>
+<p align="left" style="font-family: 'Times New Roman', Times, serif;">My name is <a href="https://pmgohil.site/" target="_blank" style="font-family: 'Times New Roman', Times, serif;">Pm Gohil</a> and I'm a Android App Developer, wield the artistry of code, fashioning bespoke marvels that dance on the precipice of innovation.</p>
 
 ###
 
@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2 style="font-family: 'Times New Roman', Times, serif;">My Contributions</h2>
   <img src="https://raw.githubusercontent.com/pmgohil45/pmgohil45/output/snake.svg" alt="Snake animation" />
   
 <!--
