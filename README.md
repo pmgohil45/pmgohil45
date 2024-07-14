@@ -14,6 +14,10 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pmgohil45/pmgohil45/output/snake.svg" alt="Snake animation" />
+
 <!--
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/86161081?v=4"  />
 -->
