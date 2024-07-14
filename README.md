@@ -23,7 +23,6 @@
 </div>
 
 ###
-<br>
 <div align="center"  style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
   <h2>Cognizant</h2>
   <a href="https://github.com/pmgohil45/Kotlin" target="_blank">
@@ -71,7 +70,7 @@
 </div>
 
 ###
-<br>
+
 <div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
     <h2>Presence</h2>
   <a href="https://www.linkedin.com/in/pmgohil45/" target="_blank">
@@ -99,7 +98,7 @@
 </div>
 
 ###
-<br>
+
 <div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
   <h2>Visitation</h2>
   <img src="https://profile-counter.glitch.me/pmgohil45/count.svg?"  />
