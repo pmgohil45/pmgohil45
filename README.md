@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pmgohil45&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pmgohil45&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-
+</div
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/pmgohil45/Kotlin" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   </a>
@@ -72,13 +72,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pmgohil45/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" target="_blank" />
   </a>
-  <a href="https://www.youtube.com/@pmgohil45" target="_blank">
+<!--  <a href="https://www.youtube.com/@pmgohil45" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" target="_blank" />
-  </a>
+  </a>-->
   <a href="https://wa.me/+919512240793" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=2BB741&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" target="_blank" />
   </a>
@@ -103,6 +103,5 @@
   <img src="https://profile-counter.glitch.me/pmgohil45/count.svg?"  />
 </div>
 
-</div>
 ###
 
