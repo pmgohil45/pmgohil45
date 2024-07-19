@@ -24,7 +24,7 @@
 
 ###
 <div align="center"  style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
-  <h2>proficiency</h2>
+  <h2>Proficiency</h2>
   <a href="https://github.com/pmgohil45/Kotlin" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   </a>
