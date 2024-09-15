@@ -79,13 +79,6 @@
   <a href="https://www.youtube.com/@pmgohil45" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" target="_blank" />
   </a>
-  <a href="https://wa.me/+919512240793" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=2BB741&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" target="_blank" />
-  </a>
-  <a href="https://whatsapp.com/channel/0029VaksPR0E50UdrJyBKl0s" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp Channel&logo=whatsapp&label=&color=2BB741&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" target="_blank" />
-  </a>
-
   <a href="https://www.instagram.com/pmgohil45/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" target="_blank" />
   </a>
@@ -98,6 +91,13 @@
   <a href="t.me/pm_gohil45" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" target="_blank" />
   </a>
+  <a href="https://wa.me/+919512240793" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=2BB741&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" target="_blank" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029VaksPR0E50UdrJyBKl0s" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp Channel&logo=whatsapp&label=&color=2BB741&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" target="_blank" />
+  </a>
+
 
 </div>
 
