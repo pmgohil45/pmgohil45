@@ -8,8 +8,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pmgohil45&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pmgohil45&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmgohil45&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+
 </div>
 
 ###
@@ -108,5 +111,18 @@
   <img src="https://profile-counter.glitch.me/pmgohil45/count.svg?"  />
 </div>
 
+### 
+
+<div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
+  <h2>✍️ Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"  />
+</div>
+
 ###
 
+<div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
+  <h2>💰 You can help me by Donating</h2>
+  <a href="https://paypal.me/pmgohil45" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&theme=dracula" height="35" alt="Facebook logo" target="_blank" />
+  </a>
+</div>
