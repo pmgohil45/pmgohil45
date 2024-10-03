@@ -115,11 +115,11 @@
 
 <div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
   <h2>💰 You can help me by Donating</h2>
-  <a href="upi://pay?pa=pmgohil45@okaxis&am=100&tn=Helping%20to%20Pm%20Gohil" target="_blank">
-    <img src="https://img.shields.io/badge/UPI-5C5C5C?style=for-the-badge&logo=googlepay&logoColor=white&theme=dracula" height="35" alt="UPI logo" />
+  <a href="https://razorpay.me/@prakashgohil?amount=ZFm4ghdmeB6pF5PK8Ki64w%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/Razorpay%20for%20Nationals-003366?style=for-the-badge&logo=razorpay&logoColor=white" height="35" alt="Razorpay logo" />
   </a><br>
   <a href="https://paypal.me/pmgohil45" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&theme=dracula" height="35" alt="PayPal logo" target="_blank" />
+    <img src="https://img.shields.io/badge/PayPal%20for%20Internationals-00457C?style=for-the-badge&logo=paypal&logoColor=white&theme=dracula" height="35" alt="PayPal logo" target="_blank" />
   </a>
 </div>
 
