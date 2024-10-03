@@ -111,18 +111,21 @@
   <img src="https://profile-counter.glitch.me/pmgohil45/count.svg?"  />
 </div>
 
+###
+
+<div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
+  <h2>💰 You can help me by Donating</h2>
+  <a href="upi://pay?pa=pmgohil45@okaxis" target="_blank">
+    <img src="https://img.shields.io/badge/UPI-5C5C5C?style=for-the-badge&logo=googlepay&logoColor=white&theme=dracula" height="35" alt="UPI logo" />
+  </a><br>
+  <a href="https://paypal.me/pmgohil45" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&theme=dracula" height="35" alt="Facebook logo" target="_blank" />
+  </a>
+</div>
+
 ### 
 
 <div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
   <h2>✍️ Random Dev Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"  />
-</div>
-
-###
-
-<div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
-  <h2>💰 You can help me by Donating</h2>
-  <a href="https://paypal.me/pmgohil45" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&theme=dracula" height="35" alt="Facebook logo" target="_blank" />
-  </a>
 </div>
