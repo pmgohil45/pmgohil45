@@ -126,6 +126,6 @@
 ### 
 
 <div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
-  <h2>✍️ Random Dev Quote</h2>
+  <h2>✍️ Bytes of Inspiration</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"  />
 </div>
