@@ -127,5 +127,14 @@
 
 <div align="center" style="font-family: 'Times New Roman', Times, serif; background-color:#808080">
   <h2>✍️ Bytes of Inspiration</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&card_width=350&theme=dracula"  />
 </div>
+
+###
+
+<div align="center">
+  <h2>It's time to develop yourself!</h2>
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif?theme=dracula&hide_border=false" alt="MasterHead"  />
+</div>
+
+###
